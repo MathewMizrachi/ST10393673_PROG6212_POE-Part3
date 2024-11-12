@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\ST10393673_CLDV6212_POE.exe
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\appsettings.json
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\ST10393673_CLDV6212_POE.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\ST10393673_CLDV6212_POE.deps.json
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\ST10393673_CLDV6212_POE.runtimeconfig.json
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\ST10393673_CLDV6212_POE.pdb
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\Azure.Data.Tables.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Blobs.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Common.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Files.Shares.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Queues.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\System.ClientModel.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\System.IO.Hashing.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll

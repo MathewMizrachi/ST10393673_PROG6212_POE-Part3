@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container text-center my-4">
+    <h1 class="display-3 mb-4">Welcome to ABC Retail!</h1>
+    <p class="lead mb-5">Your one-stop shop for all your retail needs. We offer a wide range of products to suit your every requirement, with excellent customer service and unbeatable prices.</p>
+
+    <div class="row mb-5">
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title">Our Products</h2>
+                    <p class="card-text">Explore our diverse catalog of products ranging from electronics to clothing. We ensure quality and value in every item.</p>
+                    <a class="btn btn-primary" href="@Url.Action("Products", "Home")">View Products</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title">Special Offers</h2>
+                    <p class="card-text">Check out our latest deals and promotions. Save more on your favorite products with our special discounts.</p>
+                    <a class="btn btn-primary" href="@Url.Action("SpecialOffers", "Home")">See Offers</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title">Contact Us</h2>
+                    <p class="card-text">Have questions or need assistance? Our customer support team is here to help you. Get in touch with us for any inquiries.</p>
+                    <a class="btn btn-primary" href="@Url.Action("ContactUs", "Home")">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="mt-5">
+        <p class="text-muted">&copy; 2024 ABC Retail - All rights reserved.</p>
+    </footer>
+</div>

@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Upload Contract";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Upload Contract</h1>
+
+    <form method="post" enctype="multipart/form-data" action="@Url.Action("UploadContract")" class="bg-light p-4 rounded shadow-sm">
+        <div class="form-group mb-3">
+            <label for="file" class="form-label">Contract File</label>
+            <input type="file" id="file" name="file" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Upload</button>
+    </form>
+
+    @if (ViewData["Message"] != null)
+    {
+        <div class="alert alert-info mt-3">
+            <p class="mb-0">@ViewData["Message"]</p>
+        </div>
+    }
+</div>

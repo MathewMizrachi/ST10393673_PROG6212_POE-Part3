@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ST10393673_CLDV6212_POE
+build_property.RootNamespace = ST10393673_CLDV6212_POE
+build_property.ProjectDir = \\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = \\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE
+build_property._RazorSourceGeneratorDebug = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Contract/UploadContract.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcVXBsb2FkQ29udHJhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Home/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Home/SpecialOffers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTcGVjaWFsT2ZmZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Orders/ProcessOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXFByb2Nlc3NPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Orders/UploadContract.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXFVwbG9hZENvbnRyYWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Products/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUHJvZHVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Products/UploadProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBsb2FkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Desktop/Desktop - Mathew’s MacBook Pro/Computer Science/Year 2 Semester 2/CLDV6212/Projects/ST10393673_CLDV6212_POE/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ba15755zsm

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ST10393673CLDV6212POE20240830142921" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^\\\\Mac\\Home\\Desktop\\Desktop\ -\ Mathew’s\ MacBook\ Pro\\Computer\ Science\\Year\ 2\ Semester\ 2\\CLDV6212\\Projects\\ST10393673_CLDV6212_POE\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

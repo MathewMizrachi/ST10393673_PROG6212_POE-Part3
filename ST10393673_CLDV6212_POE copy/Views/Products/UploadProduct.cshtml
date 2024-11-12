@@ -1,0 +1,50 @@
+﻿@model ST10393673_CLDV6212_POE.Models.ProductViewModel
+
+@{
+    ViewData["Title"] = "Upload Product";
+}
+
+<div class="container mt-4">
+    <h1 class="display-4 mb-4">Upload Product</h1>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    }
+
+    <form asp-action="UploadProduct" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="ProductName"></label>
+            <input asp-for="ProductName" class="form-control" />
+            <span asp-validation-for="ProductName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductDescription"></label>
+            <input asp-for="ProductDescription" class="form-control" />
+            <span asp-validation-for="ProductDescription" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductPrice"></label>
+            <input asp-for="ProductPrice" class="form-control" />
+            <span asp-validation-for="ProductPrice" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductImage"></label>
+            <input asp-for="ProductImage" type="file" class="form-control-file" />
+            <span asp-validation-for="ProductImage" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Upload</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

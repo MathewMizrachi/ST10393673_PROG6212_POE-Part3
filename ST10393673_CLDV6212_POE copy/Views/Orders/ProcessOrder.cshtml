@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Process Order";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Process Order</h1>
+
+    <form method="post" action="@Url.Action("ProcessOrder")" class="bg-light p-4 rounded shadow-sm">
+        <div class="form-group mb-3">
+            <label for="orderId" class="form-label">Order ID</label>
+            <input type="text" id="orderId" name="orderId" class="form-control" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    @if (ViewData["Message"] != null)
+    {
+        <div class="alert alert-info mt-3">
+            <p class="mb-0">@ViewData["Message"]</p>
+        </div>
+    }
+</div>

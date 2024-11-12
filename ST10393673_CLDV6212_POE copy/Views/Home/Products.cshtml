@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="container mt-4">
+    <h1 class="display-4 mb-4">Our Products</h1>
+    
+    <p class="lead mb-4">Explore and manage our diverse range of products. You can view, add, and manage products directly from here.</p>
+
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <h2>Product List</h2>
+            <p>Browse through the list of available products. Get details, pricing, and more.</p>
+            <a class="btn btn-primary" href="@Url.Action("ProductList", "Products")">View Products</a>
+        </div>
+        <div class="col-md-6 mb-4">
+            <h2>Upload New Product</h2>
+            <p>Add new products to our catalog quickly and easily. Upload product details, images, and pricing.</p>
+            <a class="btn btn-primary" href="@Url.Action("UploadProduct", "Products")">Upload Product</a>
+        </div>
+    </div>
+</div>
